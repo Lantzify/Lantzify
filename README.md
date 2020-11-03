@@ -1,20 +1,11 @@
-### Hi there 👋
+## Hi I am Lantzify 👋
+- 🏆 I’m a [Certified Umbraco Expert](https://umbraco.com/training/certified-developers/developer/?id=3fa27864-30f2-42b0-a18c-14a9cf01ea08)
+- 💼 I’m currently working at Inka Interactive
+- 🏅 I’m trying to get into competitive programming
+- 📺 My favorite Tv show are Mr Robot & Silicon valley
 
-<!--
-**Lantzify/Lantzify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Spotify Playing 🎧
+### 👨‍💻 Coding To:
 [![Spotify](https://novatorem-sooty-mu.vercel.app/api/spotify)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)
 
 ### Languages and Tools:
@@ -24,3 +15,8 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br /><br />
+
+### Github Stats:
+
+[![ReadMe Card](https://github-readme-stats-omega-three.vercel.app/api?username=lantzify&show_icons=true&include_all_commits=true&count_private=true&theme=locale)

@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/lantzify)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-sooty-mu.vercel.app/api/spotify)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)
 
 ### Languages and Tools:
 <img align="left" width="80px" style="margin-bottom:5px" src="https://raw.githubusercontent.com/umbraco/Umbraco-CMS/v8/contrib/.github/img/logo.png">

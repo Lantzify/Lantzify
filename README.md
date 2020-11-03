@@ -9,7 +9,7 @@
 [![Spotify](https://novatorem-sooty-mu.vercel.app/api/spotify)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)
 
 ### 🛠 Languages and Tools:
-<img align="left" width="80px" style="margin-bottom:5px" src="https://raw.githubusercontent.com/umbraco/Umbraco-CMS/v8/contrib/.github/img/logo.png">
+<img align="left" alt="Umbraco" width="26px" src="https://raw.githubusercontent.com/github/explore/d5238c8069e3ab6783a456dd7ddcd708c3281d18/topics/umbraco/umbraco.png">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

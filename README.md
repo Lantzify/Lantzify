@@ -1,7 +1,7 @@
 ## Hi I am Lantzify 👋
 - 🏆 I’m a [Certified Umbraco Expert](https://umbraco.com/training/certified-developers/developer/?id=3fa27864-30f2-42b0-a18c-14a9cf01ea08)
 - 💼 I’m currently working at Inka Interactive
-- 📺 Favorite Tv show are Mr Robot & Silicon valley
+- 📺 Favorite Tv shows are Mr Robot & Silicon valley
 - 📚 Favorite author is [Cal Newport](https://www.calnewport.com/)
 
 

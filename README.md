@@ -3,6 +3,7 @@
 - 💼 I’m currently working at Inka Interactive
 - 📺 Favorite Tv shows are Mr Robot & Silicon valley
 - 📚 Favorite author is [Cal Newport](https://www.calnewport.com/)
+- 📔  今、日本語を勉強しています
 
 
 ### 👨‍💻 Coding To:

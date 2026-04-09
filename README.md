@@ -6,7 +6,7 @@
 - 📔 今、日本語を勉強しています
 - ✍️ 日本語の練習として、[ブログ](https://ランツ.dev/blog)を書いています
 
-### 📝 Latest Blog posts
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
 - [Umbraco 17で動的アイテム付きツリーを作る方法](https://xn--bdkwd4a.dev/blog/umbraco-17-de-doteki-aitemutsuki-tsuri-tsukuru)

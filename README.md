@@ -11,8 +11,6 @@
 - [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
 - [Umbraco 17で動的アイテム付きツリーを作る方法](https://xn--bdkwd4a.dev/blog/umbraco-17-de-doteki-aitemutsuki-tsuri-tsukuru)
 - [（第3回）Auto Dictionaries：Umbraco 13 から 17 への冒険 — バックエンド対応とスキーマ生成](https://xn--bdkwd4a.dev/blog/auto-dictionaries-bakku-endo-taio-to-sukima-seisei)
-- [（第2回）Auto Dictionaries：Umbraco 13 から 17 への冒険 — プロジェクト構造と TypeScript への移行準備](https://xn--bdkwd4a.dev/blog/auto-dictionaries-umbraco-17-typescript)
-- [&lpar;第1回）Auto Dictionaries：Umbraco 13 から 17 への冒険](https://xn--bdkwd4a.dev/blog/auto-dictionaries-umbraco-13-kara-17-heno-boken-1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:

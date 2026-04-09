@@ -6,6 +6,9 @@
 - 📔 今、日本語を勉強しています
 - ✍️ 日本語の練習として、[ブログ](https://ランツ.dev/blog)を書いています
 
+### 📝 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:
 [![Spotify](https://novatorem-sooty-mu.vercel.app/api/spotify)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)

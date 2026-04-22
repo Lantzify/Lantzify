@@ -8,9 +8,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco 17, DateTime works differently](https://xn--bdkwd4a.dev/blog/alt2mllqlns)
-- [Umbraco 17.4.0がもっと日本語フレンドリーになった](https://xn--bdkwd4a.dev/blog/nfso_6jw6b)
 - [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
+- [Umbraco 17で動的アイテム付きツリーを作る方法](https://xn--bdkwd4a.dev/blog/umbraco-17-de-doteki-aitemutsuki-tsuri-tsukuru)
+- [（第3回）Auto Dictionaries：Umbraco 13 から 17 への冒険 — バックエンド対応とスキーマ生成](https://xn--bdkwd4a.dev/blog/auto-dictionaries-bakku-endo-taio-to-sukima-seisei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:

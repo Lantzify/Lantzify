@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:
-[![Spotify](https://novatorem-sooty-mu.vercel.app/api/spotify)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)
+[![Spotify](https://novatorem-sooty-mu.vercel.app/api/orchestrator?background_type=blur_light)](https://open.spotify.com/user/f9qykj3762zinobahz6vb6hn0)
 
 ### 🛠 Languages and Tools:
 <img align="left" alt="Umbraco" width="26px" src="https://raw.githubusercontent.com/github/explore/d5238c8069e3ab6783a456dd7ddcd708c3281d18/topics/umbraco/umbraco.png">

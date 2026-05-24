@@ -8,9 +8,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Umbraco 17の日付選択の冒険](https://xn--bdkwd4a.dev/blog/umbraco-17-no-hizuke-sentaku-no-boken)
 - [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
 - [Umbraco 17で動的アイテム付きツリーを作る方法](https://xn--bdkwd4a.dev/blog/umbraco-17-de-doteki-aitemutsuki-tsuri-tsukuru)
-- [（第3回）Auto Dictionaries：Umbraco 13 から 17 への冒険 — バックエンド対応とスキーマ生成](https://xn--bdkwd4a.dev/blog/auto-dictionaries-bakku-endo-taio-to-sukima-seisei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:

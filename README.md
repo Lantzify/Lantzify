@@ -8,9 +8,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Umbraco 17.4.0がもっと日本語フレンドリーになった](https://xn--bdkwd4a.dev/blog/umbraco-17-4-0-japanese-friendly)
 - [Umbraco 17の日付選択の冒険](https://xn--bdkwd4a.dev/blog/umbraco-17-no-hizuke-sentaku-no-boken)
 - [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
-- [Umbraco 17で動的アイテム付きツリーを作る方法](https://xn--bdkwd4a.dev/blog/umbraco-17-de-doteki-aitemutsuki-tsuri-tsukuru)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:

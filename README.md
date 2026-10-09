@@ -8,9 +8,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions: API キーから信頼された発行](https://xn--bdkwd4a.dev/blog/github-actions-nuget-trusted-publishing)
 - [Umbraco 17.4.0がもっと日本語フレンドリーになった](https://xn--bdkwd4a.dev/blog/umbraco-17-4-0-japanese-friendly)
 - [Umbraco 17の日付選択の冒険](https://xn--bdkwd4a.dev/blog/umbraco-17-no-hizuke-sentaku-no-boken)
-- [一緒にUmbraco 17を進みましょう！](https://xn--bdkwd4a.dev/blog/umbraco-17-contribution-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Coding To:
